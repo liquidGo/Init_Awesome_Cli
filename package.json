@@ -1,0 +1,33 @@
+{
+  "name": "init_awesome",
+  "version": "1.0.0",
+  "description": "You can choose between the initial PC or the mobile end (the mobile end has a Rem layout)",
+  "main": "index.js",
+  "bin": {
+    "init_awesome": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/liquidGo/Init_Awesome_Cli.git"
+  },
+  "author": "左岸",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liquidGo/Init_Awesome_Cli/issues"
+  },
+  "homepage": "https://github.com/liquidGo/Init_Awesome_Cli#readme",
+  "devDependencies": {
+    "commander": "^12.0.0"
+  },
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^12.0.0",
+    "download-git-repo": "^3.0.2",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.0.0",
+    "ora": "^5.4.1"
+  }
+}

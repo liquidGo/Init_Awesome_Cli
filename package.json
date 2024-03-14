@@ -1,5 +1,5 @@
 {
-  "name": "init_awesome",
+  "name": "init-template",
   "version": "1.0.2",
   "description": "You can choose between the initial PC or the mobile end (the mobile end has a Rem layout)",
   "main": "index.js",

@@ -1,12 +1,12 @@
-# init-template
+# init-y
 > The framework includes React template, supports responsive and less syntax, and exposes webpack configuration
 ## install
 ```shell
-npm install -g init-template
+npm install -g init-y
 ```
 ## Usage
 ```shell
-init-template create <project-name>
+init-y create <project-name>
 ```
 ### Related dependencies
 ```shell

@@ -1,5 +1,5 @@
 {
-  "name": "init-template",
+  "name": "init-y",
   "version": "1.0.5",
   "description": "You can choose between the initial PC or the mobile end (the mobile end has a Rem layout)",
   "main": "index.js",

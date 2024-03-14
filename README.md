@@ -1,12 +1,12 @@
-# init-y
+# init-awesome-cli
 > The framework includes React template, supports responsive and less syntax, and exposes webpack configuration
 ## install
 ```shell
-npm install -g init-y
+npm install -g init-awesome-cli
 ```
 ## Usage
 ```shell
-init-y create <project-name>
+init-awesome-cli create <project-name>
 ```
 ### Related dependencies
 ```shell

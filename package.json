@@ -3,6 +3,12 @@
   "version": "1.0.1",
   "description": "You can choose between the initial PC or the mobile end (the mobile end has a Rem layout)",
   "main": "index.js",
+  "keywords": [
+    "template",
+    "cli",
+    "init",
+    "react"
+  ],
   "bin": {
     "init-cli": "./bin/index.js"
   },

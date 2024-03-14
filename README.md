@@ -1,12 +1,12 @@
-# init-awesome
+# init-template
 > The framework includes React template, supports responsive and less syntax, and exposes webpack configuration
 ## install
 ```shell
-npm install -g init-awesome
+npm install -g init-template
 ```
 ## Usage
 ```shell
-init-awesome create <project-name>
+init-template create <project-name>
 ```
 ### Related dependencies
 ```shell
